@@ -1,0 +1,4 @@
+[$HOME/.oh-my-zsh]
+checkout  = git clone https://github.com/robbyrussell/oh-my-zsh.git .oh-my-zsh
+update = git pull --rebase
+push = echo "Read only repository"

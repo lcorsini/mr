@@ -1,0 +1,5 @@
+[$HOME/.vim/bundle/Vundle.vim]
+checkout = git clone https://github.com/gmarik/Vundle.vim.git ~/.vim/bundle/Vundle.vim
+update = git pull --rebase
+push = echo "Read only repository"
+
